@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Erin Corbett",
+    "label": "Software Developer",
+    "image": "",
+    "email": "erin.e.corbett@gmail.com",
+    "phone": "(714) 917-7351",
+    "url": "linkedin.com/in/erin-corbett-49b5a2217",
+    "summary": "Front end web developer",
+    "location": {
+      "address": "2300 Jefferson Ave Unit 18",
+      "postalCode": "84410",
+      "city": "Ogden",
+      "countryCode": "US",
+      "region": "Utah"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "erincorbett88",
+      "url": "https://github.com/erincorbett88hn"
+    }]
+  },
+  "work": [{
+    "name": "US Air Force",
+    "position": "Software Engineer",
+    "url": "https://software.af.mil/softwarefactory/309th-software-engineering-group/",
+    "startDate": "2023-06-15",
+    "endDate": "Present",
+    "summary": "Full-stack Java web developer",
+    "highlights": [
+      "Created web applications using ReactJS and SpringBoot"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Give Me a Chance",
+    "position": "Piano Teacher",
+    "url": "https://givemeachanceutah.org/",
+    "startDate": "2023-10-02",
+    "endDate": "Present",
+    "summary": "Description…",
+    "highlights": [
+      "Taught piano to underprivileged youth"
+    ]
+  }],
+  "education": [{
+    "institution": "Colorado State University",
+    "url": "https://www.colostate.edu/",
+    "area": "Computer Science",
+    "studyType": "Bachelor of Science",
+    "startDate": "2020-09-01",
+    "endDate": "2022-07-01",
+    "score": "3.84",
+    "courses": [
+      "Software Architecture", "Data Structures", "Logic"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Hiking",
+    "keywords": [
+      "mountain",
+      "camping"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }]
+}
